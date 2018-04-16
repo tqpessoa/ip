@@ -33,7 +33,7 @@ Qual o resultado obtido nos testes de comunicação? Justifique sua resposta.
 
 
 
-Parte 3: Ativando a layer 2 para o bloqueio dos mac.
+Parte 3: Ativando a layer 2 para a tabela arp.
 
 cp ˜/pox/pox/forwarding/l2_learning.py  ˜/pox/ext/
 
